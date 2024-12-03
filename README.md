@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Hi there, I'm Divya Chaudhari! 👋
+🌟 Aspiring Developer | Problem Solver | Tech Enthusiast
 <!--
 **divyaaa16/divyaaa16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
